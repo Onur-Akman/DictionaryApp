@@ -1,9 +1,12 @@
-
 # DictionaryApp
+ Dictionary App is a user-friendly iOS application that lets you easily search for word meanings and pronunciations. With a simple and intuitive interface, you can quickly look up words, learn their definitions, and hear their correct pronunciation. Stay informed and expand your vocabulary with Dictionary App.
 
 DictionaryApp - Dictionary App that Displays Word Meanings and Pronunciations
 
-![Giriş Ekranı](giris.png)
+![giris](https://github.com/Onur-Akman/DictionaryApp/assets/117575164/9830c38a-633f-455e-9e85-d45b25763860)
+![Search](https://github.com/Onur-Akman/DictionaryApp/assets/117575164/56a62043-e05c-452d-9c86-e9fe0a94a484)
+
+
 
 
 ## About the Project
@@ -39,7 +42,7 @@ The app fetches word information from an external API and presents it in a user-
 
 ## Developers
 
-- Şevval Ateş & Onur Akman- (https://github.com/SevvalAtes54 & https://github.com/Onur-Akman)
+- Your Name - https://github.com/SevvalAtes54 & https://github.com/Onur-Akman
 
 ## Contributing
 
@@ -51,4 +54,4 @@ The app fetches word information from an external API and presents it in a user-
 
 ## License
 
-This project is licensed under the MIT License. For more information, refer to the SEVVAL VE ONUR file.
+This project is licensed under the MIT License. For more information, refer to the [LICENSE](LICENSE) file.
