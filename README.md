@@ -54,4 +54,4 @@ The app fetches word information from an external API and presents it in a user-
 
 ## License
 
-This project is licensed under the MIT License. For more information, refer to the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. For more information, refer to the [LICENSE](LICENSE) file. 
