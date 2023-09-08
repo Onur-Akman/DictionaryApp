@@ -42,7 +42,7 @@ The app fetches word information from an external API and presents it in a user-
 
 ## Developers
 
-- Your Name - https://github.com/SevvalAtes54 & https://github.com/Onur-Akman
+- Names - https://github.com/SevvalAtes54 & https://github.com/Onur-Akman
 
 ## Contributing
 
